@@ -34,3 +34,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/crystal/crystal-line-wordmark.svg" width="40" height="40"/>
 </div>
+
+### :trophy: Достижения :
