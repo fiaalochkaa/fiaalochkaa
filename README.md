@@ -18,7 +18,7 @@
 
 ### :woman_technologist: Обо мне :
 
-- :nerd_face: Студентка
+- :nerd_face: Учеба
 
 - :woman_cook: Кухня
 
