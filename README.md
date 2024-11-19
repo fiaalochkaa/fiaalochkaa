@@ -23,3 +23,5 @@
 - :woman_cook: Кухня
 
 - :woman_astronaut: Космос
+
+### :hammer_and_wrench: Языки и инструменты :
