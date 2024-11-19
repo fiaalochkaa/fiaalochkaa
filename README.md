@@ -15,3 +15,5 @@
 <div id="heythere" align="center">
 <h1> Профиль на GITNUB </h1>
 </div>
+
+### :woman_technologist: Обо мне :
