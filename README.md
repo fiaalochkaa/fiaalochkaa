@@ -17,3 +17,9 @@
 </div>
 
 ### :woman_technologist: Обо мне :
+
+- :nerd_face: Студентка
+
+- :woman_cook: Кухня
+
+- :woman_astronaut: Космос
