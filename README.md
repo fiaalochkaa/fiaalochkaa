@@ -25,3 +25,11 @@
 - :woman_astronaut: Космос
 
 ### :hammer_and_wrench: Языки и инструменты :
+
+<div>
+  <img src="https://github.com/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicon/blob/master/icons/framework7/framework7-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicon/blob/master/icons/apple/apple-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicon/blob/master/icons/atom/atom-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg" width="40" height="40"/>
+</div>
