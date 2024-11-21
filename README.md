@@ -50,6 +50,6 @@
 ### :bar_chart: Статистика активности :
 
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fiaalochkaa&theme=dracula" alt=""/?
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fiaalochkaa&theme=rogue" alt=""/?
 </div>
 
