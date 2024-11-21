@@ -36,3 +36,7 @@
 </div>
 
 ### :trophy: Достижения :
+
+<div>
+  <img src="https://github-profile-trophy.versel.app/?username=fiaalochkaa" alt=""/>
+</div>
