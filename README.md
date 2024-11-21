@@ -16,7 +16,7 @@
 <h1> Профиль на GITNUB </h1>
 </div>
 
-### :woman_technologist: Обо мне :
+### :woman_technologist: Обо мне : Студентка
 
 - :nerd_face: Учеба
 
