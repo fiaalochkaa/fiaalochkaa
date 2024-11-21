@@ -38,8 +38,7 @@
 ### :trophy: Достижения :
 
 <div>
-  <img src="https://github.com/github-profile-trophy.git/?username=fiaalochkaa" alt=""/>
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=fiaalochkaa" alt=""/>
 </div>
 
 
