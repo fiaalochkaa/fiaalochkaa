@@ -41,6 +41,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=fiaalochkaa" alt=""/>
 </div>
 
+### :keyboard: Наиболее используемые языки :
 
+<div>
+  <img scr="https://github-readme-stats.vercel.app/api/top-langs/?username=fiaalochkaa" alt=""/>
+</div>
 
 
